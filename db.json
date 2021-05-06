@@ -1,0 +1,251 @@
+{
+  "categories": [
+    {
+      "id": "f1c585ef-742d-478a-83fd-96095e5414a8",
+      "name": "Music",
+      "createdAt": 1620288498714,
+      "updatedAt": 1620288498714
+    },
+    {
+      "id": "6ac05f5f-334f-43fc-b7ce-b5035efcc78d",
+      "name": "Music",
+      "createdAt": 1620288498714,
+      "updatedAt": 1620288498714
+    },
+    {
+      "id": "10048810-2cfe-4453-850f-e3257d945f12",
+      "name": "Automotive",
+      "createdAt": 1620288498714,
+      "updatedAt": 1620288498714
+    },
+    {
+      "id": "0e9ce5ad-4346-422a-abae-6455fefcbe64",
+      "name": "Automotive",
+      "createdAt": 1620288498714,
+      "updatedAt": 1620288498714
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "f1c585ef-742d-478a-83fd-96095e5414a8",
+      "id": "406acc70-c356-4707-b567-7824a1690d8b",
+      "name": "Generic Soft Shoes",
+      "color": "sky blue",
+      "price": 20,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1620288498715,
+      "updatedAt": 1620288498715,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "f1c585ef-742d-478a-83fd-96095e5414a8",
+      "id": "b8042223-5ce2-4efa-b24f-54602a45f215",
+      "name": "Rustic Concrete Fish",
+      "color": "white",
+      "price": 661,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1620288498715,
+      "updatedAt": 1620288498716,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "f1c585ef-742d-478a-83fd-96095e5414a8",
+      "id": "34568a58-1659-44a0-b9b2-d22a98d92ad4",
+      "name": "Awesome Steel Ball",
+      "color": "white",
+      "price": 960,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1620288498716,
+      "updatedAt": 1620288498716,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "f1c585ef-742d-478a-83fd-96095e5414a8",
+      "id": "6539d716-edd0-4f56-a12b-317cb9bd0f64",
+      "name": "Gorgeous Soft Tuna",
+      "color": "orchid",
+      "price": 194,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1620288498716,
+      "updatedAt": 1620288498716,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "f1c585ef-742d-478a-83fd-96095e5414a8",
+      "id": "b25d4462-ba3e-449e-b823-7b60c4309ec6",
+      "name": "Sleek Metal Shoes",
+      "color": "azure",
+      "price": 66,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1620288498717,
+      "updatedAt": 1620288498717,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6ac05f5f-334f-43fc-b7ce-b5035efcc78d",
+      "id": "2cc1fbc0-ce4f-418b-a8f0-358b8f123aa2",
+      "name": "Fantastic Metal Cheese",
+      "color": "fuchsia",
+      "price": 294,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1620288498717,
+      "updatedAt": 1620288498717,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6ac05f5f-334f-43fc-b7ce-b5035efcc78d",
+      "id": "64229180-47fc-4ae6-824f-d9387e01b239",
+      "name": "Practical Cotton Shoes",
+      "color": "purple",
+      "price": 518,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1620288498717,
+      "updatedAt": 1620288498717,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6ac05f5f-334f-43fc-b7ce-b5035efcc78d",
+      "id": "9ac12447-d6d5-4ffd-8a9b-ca68bc32c639",
+      "name": "Handcrafted Granite Soap",
+      "color": "magenta",
+      "price": 484,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1620288498717,
+      "updatedAt": 1620288498717,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6ac05f5f-334f-43fc-b7ce-b5035efcc78d",
+      "id": "da3a4fd0-f0ed-4dc3-ba68-73d67034ffa0",
+      "name": "Handmade Rubber Pizza",
+      "color": "grey",
+      "price": 520,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1620288498718,
+      "updatedAt": 1620288498718,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6ac05f5f-334f-43fc-b7ce-b5035efcc78d",
+      "id": "914bec2c-0df9-4924-82d3-97e02929f176",
+      "name": "Ergonomic Granite Sausages",
+      "color": "orange",
+      "price": 404,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1620288498718,
+      "updatedAt": 1620288498718,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "10048810-2cfe-4453-850f-e3257d945f12",
+      "id": "8f710ed1-8681-4a6d-a4c1-4dfbd9b4c00c",
+      "name": "Rustic Concrete Shirt",
+      "color": "tan",
+      "price": 145,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1620288498718,
+      "updatedAt": 1620288498718,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "10048810-2cfe-4453-850f-e3257d945f12",
+      "id": "868cdd46-4090-468f-ad6c-74c1b4f7f945",
+      "name": "Generic Rubber Towels",
+      "color": "lime",
+      "price": 400,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1620288498718,
+      "updatedAt": 1620288498718,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "10048810-2cfe-4453-850f-e3257d945f12",
+      "id": "82c42312-cf0f-41cc-9f56-7f4eb89f4e04",
+      "name": "Sleek Soft Fish",
+      "color": "orange",
+      "price": 962,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1620288498718,
+      "updatedAt": 1620288498718,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "10048810-2cfe-4453-850f-e3257d945f12",
+      "id": "3b4ab676-5e6b-4628-bec7-795d4ae6195d",
+      "name": "Incredible Steel Car",
+      "color": "mint green",
+      "price": 700,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1620288498719,
+      "updatedAt": 1620288498719,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "10048810-2cfe-4453-850f-e3257d945f12",
+      "id": "2d72dab0-0ada-4b35-a9db-176f6dc13ca9",
+      "name": "Tasty Steel Keyboard",
+      "color": "ivory",
+      "price": 84,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1620288498719,
+      "updatedAt": 1620288498719,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "0e9ce5ad-4346-422a-abae-6455fefcbe64",
+      "id": "2168d062-26f3-48f7-b7fd-f49238143135",
+      "name": "Small Wooden Pizza",
+      "color": "teal",
+      "price": 279,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1620288498719,
+      "updatedAt": 1620288498719,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "0e9ce5ad-4346-422a-abae-6455fefcbe64",
+      "id": "cc880f36-9309-4443-a9dd-69f342523153",
+      "name": "Handcrafted Metal Keyboard",
+      "color": "orange",
+      "price": 925,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1620288498719,
+      "updatedAt": 1620288498719,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "0e9ce5ad-4346-422a-abae-6455fefcbe64",
+      "id": "6fbe2bfc-a020-4788-9963-5697e4d36b62",
+      "name": "Ergonomic Rubber Tuna",
+      "color": "salmon",
+      "price": 764,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1620288498719,
+      "updatedAt": 1620288498719,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "0e9ce5ad-4346-422a-abae-6455fefcbe64",
+      "id": "0da486d7-14d1-441a-bcc2-1c32df82919d",
+      "name": "Small Granite Table",
+      "color": "azure",
+      "price": 315,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1620288498719,
+      "updatedAt": 1620288498719,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "0e9ce5ad-4346-422a-abae-6455fefcbe64",
+      "id": "522fbbad-6583-498b-96e3-8a940eff51d7",
+      "name": "Intelligent Soft Chair",
+      "color": "turquoise",
+      "price": 495,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1620288498720,
+      "updatedAt": 1620288498720,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    }
+  ],
+  "profile": { "name": "Hai Pham" }
+}
