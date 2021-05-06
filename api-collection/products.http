@@ -34,17 +34,24 @@ POST {{baseUrl}}/{{resourceName}}
 Content-Type: application/json
 
 {
-    "name": "Laptop"
+    "categoryId": "f1c585ef-742d-478a-83fd-96095e5414a8",
+    "name": "Awesome Steel Ball",
+    "color": "white",
+    "price": 960,
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "thumbnailUrl": "http://placeimg.com/400/400"
 }
 
 ### 
 
 # @name updateNew
-PATCH {{baseUrl}}/{{resourceName}}/4
+PATCH {{baseUrl}}/{{resourceName}}/NvShf1g
 Content-Type: application/json
 
 {
-    "name": "New Laptop"
+    "name": "Awesome Steel Ball Update",
+    "color": "red",
+    "price": 950
 }
 
 ###
